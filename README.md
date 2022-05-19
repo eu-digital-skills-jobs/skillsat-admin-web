@@ -1,2 +1,2 @@
-# skillsat-admin-web
+# skillsat Admin Web
 Skillsat Admin Web
